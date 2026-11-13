@@ -4,8 +4,8 @@
 made with Python and pygame-ce. Challenge clever computer opponents, play with friends on the same
 screen, or mix both.
 
-- **Get the full game** (play in your browser, or download for Mac and Windows): *add the link to your itch.io page here*
-- **Try the free demo in your browser:** https://amaurybiocode.itch.io/tiny-realms-demo
+- **Get the full game** (play in your browser, or download for Mac and Windows):https://amaurybiocode.itch.io/tiny-realms
+- **Try the demo in your browser:** https://amaurybiocode.itch.io/tiny-realms-demo
 
 ![The menu](screenshots/menu.jpg)
 
@@ -14,16 +14,17 @@ screen, or mix both.
 Gather resources, build your town, recruit new pawns, and fight monsters for treasure. Every turn
 brings new choices, and every choice matters! The player with the most victory points at the end wins.
 
-- The tutorial with Sir Pebble, and the normal game for 2 to 4 players
-- Advanced mode: factions, zone events, special monster abilities and challenges
-- Two computer opponents: the Standard AI and the Advanced AI, which looks ahead before every move
+### What's in the Game?
+- A tutorial, and the normal game for 1 to 4 players
+- An advanced mode: factions, zone events, special monster abilities and challenges
+- Two computer opponents: the Standard AI and the Advanced AI
 - 29 achievements
-- Settings for the music and sounds, and colorblind help: every player has their own shape
+- Colorblind help
 
 ## What is in this repository
 
-The game's code, its tests and the trained computer players. The art, music and sounds are **not**
-included: they come from asset packs whose licences don't allow sharing the files (see `CREDITS.txt`
+The game's code, its tests and the trained computer players. **The art, music and sounds are not
+included**: they come from asset packs whose licences don't allow sharing the files (see `CREDITS.txt`
 for each pack and its link). To run the game from this code, get the packs and put them in an
 `assets` folder; otherwise, play it on itch.io.
 
