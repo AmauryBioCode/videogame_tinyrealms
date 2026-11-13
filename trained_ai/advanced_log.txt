@@ -1,0 +1,6 @@
+2026-11-13 12:17  Tuning the Advanced AI on 10 of 12 processor cores
+2026-11-13 12:17  12_2p: trying 9 settings, 120 games each (fair share 50%)
+2026-11-13 12:17    2 futures, 3 VP: 52.5% wins
+2026-11-13 12:18    2 futures, 6 VP: 64.2% wins
+2026-11-13 12:19    2 futures, 9 VP: 60.0% wins
+2026-11-13 12:19  Stopped. The kinds already tuned are saved; run it again to go on.

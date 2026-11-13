@@ -1,0 +1,31 @@
+Tiny Realms, a game by AmauryBioCode, made with Python and pygame-ce
+
+Art, music and sounds used in Tiny Realms
+
+Characters, monsters, zone pictures, the home ground, the menu picture, interface pieces
+and the wood, food, hammer and sword icons:
+  Tiny Swords (Free Pack, Update 010 and Enemy Pack) by Pixel Frog
+  https://pixelfrog-assets.itch.io/tiny-swords
+Inventory icons: 576 Fantasy Survival RPG Inventory Icons (free sample) by o_HET
+  https://o-het.itch.io/576-fantasy-survival-rpg-inventory-icons-pixel-art-crafting-loot-weapons-resou
+Interface: UI User Interface MEGA PACK (UIBundleFree), Medieval sheet, by ToffeeCraft
+  https://toffeecraft.itch.io/ui-user-interface-mega-pack
+Buildings: made with an AI image generator (Magnific), cut out for the game.
+  If you know a good building pack that is not made with AI, don't hesitate to contact me!
+Iron and gem icons: 2D Roblox Resources Icons (20 free icons) by Filwarka
+  https://filwarka.itch.io/2d-roblox-resources-icons-asset
+Stone, gold coin and chest icons: Free Medieval Fantasy RPG Game Icon Pack by sownddddd
+  https://sownddddd.itch.io/free-medieval-fantasy-rpg-game-icon-pack-46-icons-grayscale
+
+Music: Village Medieval Music Pack by Leonardo Calvo (Calm Village, Peaceful Town, Quiet Lake), CC BY 4.0
+  https://thesoundrack.itch.io/village-medieval-music-pack
+Sound effects: RPG Essentials SFX by Leohpaz
+  https://leohpaz.itch.io/rpg-essentials-sfx-free
+  (the dice sound is made by the game's own code)
+Button click: UI Audio by Kenney, CC0
+  https://kenney.nl/assets/ui-audio
+
+Font of the browser version: Inter by The Inter Project Authors, SIL Open Font License 1.1
+  https://github.com/rsms/inter  (the licence is in the font files' OFL.txt)
+
+Check each pack's terms before sharing or selling the game.

@@ -1,0 +1,8 @@
+assets/
+texture_pack/
+music/
+build/
+dist/
+itch_page/
+__pycache__/
+.DS_Store
