@@ -82,7 +82,7 @@ the one worth the most victory points.
 | |
 |---|
 | ![A game with 4 players](screenshots/board.jpg) |
-| *A game with 4 players: send pawns to the zones, then build and trade.* |
+| *A game with 4 players* |
 | ![The building tree](screenshots/buildings.jpg) |
 | *The building tree: 25 buildings in 5 tiers.* |
 | ![A fight in the lake](screenshots/fight.jpg) |
